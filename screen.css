@@ -239,7 +239,7 @@
     .task-box{
         margin: 0 1rem;
         margin-bottom: 2rem;
-        max-width: 73%;
+        width: fit-content;
     }
     #list-icon{
         font-size: 5.5rem;
@@ -257,9 +257,9 @@
     /*  */
     ul li{
         padding-left: 0;
-        width: 180%;
+        width: 170%;
         font-size: 14px;
-        max-width: 150%;
+        max-width: 125%;
         left: -1.5rem;
     }
     
@@ -275,7 +275,7 @@
         top: 21px;
         left: -1.75rem;
     }
-    
+
     ul li  span{
         font-size: 1.5rem;
         position: absolute;

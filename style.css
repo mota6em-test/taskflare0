@@ -46,7 +46,7 @@ body{
 
 #menu-open:hover, #menu-close:hover{
     background-color: rgba(0, 88, 88, 0.363);
-    border-radius: 50px;
+    border-radius: 50%;
 }
 
 #home{
